@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Greek Crypto Currency Community
 
-You can use the [editor on GitHub](https://github.com/Greekcc/rules/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Κανόνες της κοινότητας:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Greekcc/rules/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1) Αυτός ο διαδικτυακός τόπος και το περιεχόμενό του έχουν καθαρά ενημερωτικό χαρακτήρα και δεν συνιστούν, ούτε μπορούν να εκληφθούν ως παρότρυνση, προτροπή, προσφορά ή συμμετοχή για οποιαδήποτε επενδυτική πράξη ή  επενδυτική συμβουλή. Ο κάθε χρήστης οφείλει να προβαίνει στην διεξαγωγή καθαρά προσωπικής του έρευνας ως προς το περιεχόμενο των δημοσιεύσεων της κοινότητας, να δρα με δική του βούληση και να αναλαμβάνει εξολοκλήρου την ευθύνη για τις ενδεχόμενες ενέργειες τις οποίες θα προβεί βάσει αυτών των δημοσιεύσεων. 
+2) Το group έχει αποκλειστικό σκοπό την ανταλλαγή απόψεων μεταξύ των μελών για τα κρυπτονομίσματα και την τεχνολογία blockchain. 
+3) Απαγορεύονται αυστηρά οι σύνδεσμοι με referral codes και η προώθηση επενδυτικών προϊόντων ή υπηρεσιών. 
+4) Διατηρούμε την συζήτηση γύρω από τα κρυπτό νομίσματα, με σεβασμό στην τεχνολογία Blockchain και ό,τι αυτή πρεσβεύει.
+5) Απαγορεύονται αυστηρά τα υβριστικά σχόλια και κάθε είδους πρόκληση φόβου, αβεβαιότητας και αμφιβολίας (FUD).
+6) Σε περίπτωση που υποπέσει στην αντίληψη των διαχειριστών η συμμετοχή ατόμων κάτω των δεκαοκτώ (18) ετών ή υπάρχει παράβαση των παραπάνω κανόνων, οι διαχειρηστές προβαίνουν άμεσα σε κάθε εύλογη ενέργεια με σκοπό την αποβολή των εν λόγω χρηστών.
