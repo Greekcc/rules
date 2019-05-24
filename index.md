@@ -1,4 +1,4 @@
-# Greek Crypto Currency Community
+# Greek CryptoCurrency Community
 
  ![](photo_2019-05-24_13-58-38.jpg)
 
