@@ -1,6 +1,6 @@
 # Greek Crypto Currency Community
 
-
+ ![](photo_2019-05-24_13-58-38.jpg)
 
 # Κανόνες της κοινότητας:
 
