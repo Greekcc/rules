@@ -1,4 +1,4 @@
-# ΟΔΗΓΙΕΣ ΓΙΑ ΝΑ ΜΠEIΤΕ ΣΤΟ ΜΑΙΝ ROOM ΤΟΥ GCC
+# Οδηγίες για να μπείτε στο main room του Greek Cryptocurrency Community
 
 Καλωσήρθατε στο Lobby του Greek Cryptocurrency Community, τον προθάλαμο της  κεντρικής κοινότητας.
 
